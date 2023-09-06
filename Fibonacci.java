@@ -1,4 +1,13 @@
 
+/**
+ * This method performs the Fibonacci sequence on a given number
+ * 
+ * @param n the number being used for the sequence
+ * @returns the recursive sum of the numbers in the sequence
+ * 
+ * @author Abner Roman Diaz
+ * @version 1.0
+ */
 public class Fibonacci {
 	
 	static int fib(int n) {
